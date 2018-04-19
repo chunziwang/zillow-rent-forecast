@@ -1,3 +1,7 @@
+# Project: Zillow Rent Forecast
+
+Author: Megan Wilder and Chunzi Wang
+
 ## Dataset
 
 The Zillow Rent Index is the median estimated monthly rental price for a city, reported in US dollars. It includes multifamily, single family, condominium, and cooperative homes in Zillow&#39;s database, regardless of whether they are currently listed for rent.
